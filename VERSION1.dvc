@@ -1,0 +1,5 @@
+outs:
+- md5: 7bd1eaf5c530680cd5d21bd47f85f0aa.dir
+  size: 7336562
+  nfiles: 1372
+  path: VERSION1
